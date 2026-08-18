@@ -16,6 +16,7 @@ public class FSSuite extends DriverBase {
 
         System.out.println("******************************************");
         System.out.println("Welcome to the Selenium 4 AGM Automation Suite");
+        System.out.println("Welcome to the Selenium 4 AGM Automation Suite");
         System.out.println("******************************************");
     }
 }
